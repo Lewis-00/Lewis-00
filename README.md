@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in **Softlab spa**
 
-- 🌱 I’m currently learning **Vue and express**
+- 🌱 I’m currently learning **Next and express**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
