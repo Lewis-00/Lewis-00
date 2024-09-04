@@ -86,13 +86,5 @@
   <a href="https://www.linkedin.com/in/luigi-abenante-2b70051ba/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/jvst_luigi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
 </div>
 
-###
-
-<img align="left" height="200" src="https://camo.githubusercontent.com/b6a5773726cbdcfe9460bd5ba62a35bf9800616dd16a97127d4405771c4efb1b/68747470733a2f2f692e696d6775722e636f6d2f72545a6b66344b2e676966"  />
-
-###
