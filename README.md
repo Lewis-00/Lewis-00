@@ -12,6 +12,6 @@
 
 - **Work:** React, Typescript, Redux, MUI, Bootstrap  
 - **Free Time:** Astro, Next.js, Node.js, Tailwind, Express  
-- **Code Editor:** Switching from Webstorm for work to **Neovim** for personal projects  
+- **Code Editor:** Switching from Webstorm for work to **Neovim / Vim** for personal projects  
 
 <h4 align="left">📢 Let's Connect!</h4>
