@@ -4,7 +4,7 @@
 <h4 align="left">👨‍💻 About Me:</h4>
 
 - 💼 Currently working at [Softlab SpA](https://www.linkedin.com/company/softlab-spa/?originalSubdomain=it)  
-- ⏳ I probably spend more time **configuring Neovim** than coding
+- ⏳ I probably spend more time **configuring Vim** than coding
 - ☕️ Always open to interesting collaborations, side projects, or a casual chat about tech  
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/luigi-abenante/)  
 
